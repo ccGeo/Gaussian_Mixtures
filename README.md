@@ -7,7 +7,7 @@ Artificial Intelligence and Statistics, 2001 T. Jaakkola and T. Richardson (Eds)
 
 An example is displayed that is discussed in the paper of a mixture of 5 gaussians. 
 
-<img_src="https://giphy.com/gifs/XLAN4qmyZDS6nZll6E" />
+![](https://github.com/ccGeo/Gaussian_Mixtures/blob/main/Gaussian_Mixtures/Mixing.gif)
 
 
 The code makes use of a confidence ellipse plot method that was created by 
